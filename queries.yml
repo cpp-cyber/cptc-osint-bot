@@ -1,0 +1,12 @@
+bing:
+- search_string: '"ouicroissant" site:linkedin.com/in/'
+- search_string: '"jamiet0907"'
+- search_string: '"ouicroissant"'
+- search_string: '"jamie_itmanager"'
+google:
+- cx: linkedin
+  search_string: '"ouicroissant"'
+- cx: social
+  search_string: '"jamiet0907"'
+- cx: social
+  search_string: '"jamie_itmanager"'
